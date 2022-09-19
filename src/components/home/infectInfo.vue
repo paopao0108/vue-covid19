@@ -22,7 +22,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .infectInfo {
   padding: 0.16rem;
   background: #fff;
